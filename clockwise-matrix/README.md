@@ -1,4 +1,4 @@
-# Clockwise Matrics
+# Clockwise Matrics (python)
 
 ## Task
 
