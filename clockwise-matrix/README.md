@@ -17,7 +17,7 @@ clockwiseMatrix(input)
 
 ### The function codes
 
-- [solutions](https://github.com/antovk/test-tasks/clockwise-matrix/clockwise_matrix.py)
+- [solutions](https://github.com/antovk/test-tasks/blob/main/clockwise-matrix/clockwise_matrix.py)
 
 ---
 
