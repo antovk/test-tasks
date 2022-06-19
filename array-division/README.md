@@ -10,4 +10,5 @@
 
 ### The python code
 
-- [solution](https://github.com/antovk/test-tasks/blob/main/array-division/array-division.py)
+- [solution](
+    https://github.com/antovk/test-tasks/blob/main/array-division/array_division.py)
