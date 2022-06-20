@@ -12,7 +12,7 @@ def timer(f):
     return wrapper
 
 
-arr = random.sample(range(-1_000_000, 1_000_000), 1_000_000)
+arr = random.sample(range(-10_000_000, 10_000_000), 10_000_000)
 
 f1 = timer(array_division_v1.solution)
 f2 = timer(array_division_v2.solution)
