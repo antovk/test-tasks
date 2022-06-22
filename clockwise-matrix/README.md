@@ -19,7 +19,7 @@ clockwiseMatrix(input)
 
 - [test_matrix](https://github.com/antovk/test-tasks/blob/main/clockwise-matrix/test_matrix.py)
 - [solution_1](https://github.com/antovk/test-tasks/blob/main/clockwise-matrix/clockwise_matrix_1.py)
-- [solution_1](https://github.com/antovk/test-tasks/blob/main/clockwise-matrix/clockwise_matrix_1.py)
+- [solution_2](https://github.com/antovk/test-tasks/blob/main/clockwise-matrix/clockwise_matrix_2.py)
 
 ---
 
