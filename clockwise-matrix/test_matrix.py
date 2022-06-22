@@ -11,10 +11,10 @@ def test_clockwise(matrix, result):
 
 
 matrices = [MATRIX_1, MATRIX_2, MATRIX_3, MATRIX_4,
-            MATRIX_5, MATRIX_6, MATRIX_7, MATRIX_8, MATRIX_9]
+            MATRIX_5, MATRIX_6, MATRIX_7, MATRIX_8, MATRIX_9, MATRIX_10]
 
 results = [RESULT_1, RESULT_2, RESULT_3, RESULT_4,
-           RESULT_5, RESULT_6, RESULT_7, RESULT_8, RESULT_9]
+           RESULT_5, RESULT_6, RESULT_7, RESULT_8, RESULT_9, RESULT_10]
 
 for m, r in zip(matrices, results):
     test_clockwise(m, r)
