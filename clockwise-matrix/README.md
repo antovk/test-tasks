@@ -38,8 +38,8 @@ In the second solution I consider source matrix as multiple matrices nested one 
 At each cycle iteration get the values from the four sides of the matrix, after which offset is increased by 1.\
 Initial position of each offset is top left corner (1, 17, 25)
 
-- **y** - height of source matrix (number of rows)
-- **x** - width of source matrix (number of columns)
+- **rows** - height of source matrix (number of rows)
+- **columns** - width of source matrix (number of columns)
 - **offset** - matrix offset (outer matrix offset = 0, next offset = 1 etc.)
 
 ![Untitled](img/cw2.png)
