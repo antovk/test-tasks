@@ -1,13 +1,23 @@
 # test-tasks
 
-## clockwise matrix (python)
+## SQL
 
-- [task and solutions](https://github.com/antovk/test-tasks/tree/main/clockwise-matrix)
+### [report transform (grouping by periods) Postgres](https://github.com/antovk/test-tasks/tree/main/report-transform)
 
-## array division (python)
+### [another report transform (counting events by interval) Spark, Postgres](https://github.com/antovk/test-tasks/tree/main/meetings-report)
 
-- [task and solutions](https://github.com/antovk/test-tasks/tree/main/array-division)
+### [top 3 salary (leetcode red) Oracle PL/SQL](https://github.com/antovk/test-tasks/tree/main/top-3-salary)
 
-## report transform (sql)
+## Python
 
-- [task and solutions](https://github.com/antovk/test-tasks/tree/main/report-transform)
+### [clockwise matrix](https://github.com/antovk/test-tasks/tree/main/clockwise-matrix)
+
+### [array division](https://github.com/antovk/test-tasks/tree/main/array-division)
+
+## Java
+
+### [roman-to-integer (leetcode green)](https://github.com/antovk/test-tasks/tree/main/roman-to-integer)
+
+### [ransom-note (leetcode green)](https://github.com/antovk/test-tasks/tree/main/ransom-note)
+
+### [substring-with-concatenation-of-all-words (leetcode red)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)
