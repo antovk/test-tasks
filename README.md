@@ -8,6 +8,8 @@
 
 ### [top 3 salary (leetcode red) Oracle PL/SQL](https://github.com/antovk/test-tasks/tree/main/top-3-salary)
 
+### [trips and users (leetcode red) MySQL](https://github.com/antovk/test-tasks/tree/main/trips-and-users)
+
 ## Python
 
 ### [clockwise matrix](https://github.com/antovk/test-tasks/tree/main/clockwise-matrix)
