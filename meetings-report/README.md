@@ -33,8 +33,8 @@ FROM (SELECT t2.meeting_id
                     space(
                          cast((unix_timestamp(t1.end_time) - unix_timestamp(t1.start_time) + 60) / 60 / 15 AS int -- calculate number of 15-minute intervals
                          ) - 1 -- subtract 1 to account for the first interval
-                    ), ' ' -- split to array of spaces
-               )) f1 -- explode the array into a list of 15-minute intervals
+                    ), ' ') -- split to array of spaces
+               ) f1 -- explode the array into a list of 15-minute intervals
           ) t2
      ) t3
 GROUP BY t3.start_time
