@@ -10,6 +10,8 @@
 
 ### [trips and users (leetcode red) MySQL](https://github.com/antovk/test-tasks/tree/main/trips-and-users)
 
+### [human traffic of stadium (leetcode red) MS T-SQL](https://github.com/antovk/test-tasks/tree/main/human-traffic-of-stadium)
+
 ## Python
 
 ### [clockwise matrix](https://github.com/antovk/test-tasks/tree/main/clockwise-matrix)
