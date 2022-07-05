@@ -10,7 +10,7 @@
 
 ### [trips and users (leetcode red) MySQL](https://github.com/antovk/test-tasks/tree/main/trips-and-users)
 
-### [human traffic of stadium (leetcode red) MS T-SQL](https://github.com/antovk/test-tasks/tree/main/human-traffic-of-stadium)
+### [human traffic of stadium (leetcode red) MS T-SQL - just for fun, using group_by and having :)](https://github.com/antovk/test-tasks/tree/main/human-traffic-of-stadium)
 
 ## Python
 
