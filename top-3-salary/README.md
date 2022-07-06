@@ -1,4 +1,4 @@
-# top 3 salary (leetcode red) Oracle PL/SQL
+# top 3 salary (leetcode hard) Oracle PL/SQL
 
 ## Task
 

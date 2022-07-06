@@ -1,4 +1,4 @@
-# ransom note (leetcode green)
+# ransom note (leetcode easy)
 
 ## Task
 

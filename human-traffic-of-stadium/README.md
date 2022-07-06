@@ -1,4 +1,4 @@
-# Human Traffic of Stadium (leetcode red) MS T-SQL
+# Human Traffic of Stadium (leetcode hard) MS T-SQL
 
 ## Task
 

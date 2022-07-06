@@ -1,4 +1,4 @@
-# substring with concatenation of all words (leetcode red)
+# substring with concatenation of all words (leetcode hard)
 
 ## Task
 

@@ -1,4 +1,4 @@
-# Trips and Users (leetcode red) MySQL
+# Trips and Users (leetcode hard) MySQL
 
 ## Task
 

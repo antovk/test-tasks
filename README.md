@@ -6,11 +6,11 @@
 
 ### [another report transform (counting events by interval) Spark, Postgres](https://github.com/antovk/test-tasks/tree/main/meetings-report)
 
-### [top 3 salary (leetcode red) Oracle PL/SQL](https://github.com/antovk/test-tasks/tree/main/top-3-salary)
+### [top 3 salary (leetcode hard) Oracle PL/SQL](https://github.com/antovk/test-tasks/tree/main/top-3-salary)
 
-### [trips and users (leetcode red) MySQL](https://github.com/antovk/test-tasks/tree/main/trips-and-users)
+### [trips and users (leetcode hard) MySQL](https://github.com/antovk/test-tasks/tree/main/trips-and-users)
 
-### [human traffic of stadium (leetcode red) MS T-SQL - just for fun, using "group_by" and "having" :)](https://github.com/antovk/test-tasks/tree/main/human-traffic-of-stadium)
+### [human traffic of stadium (leetcode hard) MS T-SQL - just for fun, using "group_by" and "having" :)](https://github.com/antovk/test-tasks/tree/main/human-traffic-of-stadium)
 
 ## Python
 
@@ -18,10 +18,12 @@
 
 ### [array division](https://github.com/antovk/test-tasks/tree/main/array-division)
 
+### [median of two sorted arrays (leetcode hard) - without builtin join and sort](https://github.com/antovk/test-tasks/tree/main/median-of-two-sorted-arrays)
+
 ## Java
 
-### [roman-to-integer (leetcode green)](https://github.com/antovk/test-tasks/tree/main/roman-to-integer)
+### [roman-to-integer (leetcode easy)](https://github.com/antovk/test-tasks/tree/main/roman-to-integer)
 
-### [ransom-note (leetcode green)](https://github.com/antovk/test-tasks/tree/main/ransom-note)
+### [ransom-note (leetcode easy)](https://github.com/antovk/test-tasks/tree/main/ransom-note)
 
-### [substring-with-concatenation-of-all-words (leetcode red)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)
+### [substring-with-concatenation-of-all-words (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)

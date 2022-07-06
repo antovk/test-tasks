@@ -1,4 +1,4 @@
-# roman to integer (leetcode green)
+# roman to integer (leetcode easy)
 
 ## Task
 
