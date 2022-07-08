@@ -24,6 +24,8 @@
 
 ### [roman-to-integer (leetcode easy)](https://github.com/antovk/test-tasks/tree/main/roman-to-integer)
 
-### [ransom-note (leetcode easy)](https://github.com/antovk/test-tasks/tree/main/ransom-note)
+### [ransom note (leetcode easy)](https://github.com/antovk/test-tasks/tree/main/ransom-note)
 
-### [substring-with-concatenation-of-all-words (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)
+### [substring with concatenation of all words (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)
+
+### [first missing positive (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/first-missing-positive)
