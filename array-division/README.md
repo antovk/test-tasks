@@ -30,7 +30,7 @@ f1 = timer(array_division_v1.solution)
 f1(arr)
 ```
 
-## [solution 1](https://github.com/antovk/test-tasks/blob/main/array-division/array_division_v1.py)
+## [solution](https://github.com/antovk/test-tasks/blob/main/array-division/array_division_v1.py)
 
 ```python
 def solution(arr):
