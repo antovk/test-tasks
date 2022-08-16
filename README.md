@@ -29,3 +29,5 @@
 ### [substring with concatenation of all words (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/substring-with-concatenation-of-all-words)
 
 ### [first missing positive (leetcode hard)](https://github.com/antovk/test-tasks/tree/main/first-missing-positive)
+
+### [Fizz Buzz using Spring Boot](https://github.com/antovk/test-tasks/tree/main/fizzbuzz)
