@@ -1,6 +1,5 @@
 from threading import Timer
 import array_division_v1
-import array_division_v2
 import random
 import time
 
@@ -15,7 +14,5 @@ def timer(f):
 arr = random.sample(range(-10_000_000, 10_000_000), 10_000_000)
 
 f1 = timer(array_division_v1.solution)
-f2 = timer(array_division_v2.solution)
 
 f1(arr)
-f2(arr)
